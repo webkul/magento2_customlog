@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * Webkul Software
+ *
+ * @category Magento
+ * @package  Webkul_Customlog
+ * @author   Webkul
+ */ 
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="customlog" frontName="customlog">
+            <module name="Webkul_Customlog" />
+        </route>
+    </router>
+</config>
