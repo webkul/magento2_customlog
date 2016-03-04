@@ -1,5 +1,5 @@
 {
-    "name": "webkul/module-customlog",
+    "name": "webkul/magento2_customlog",
     "description": "Magento 2.0 Customlog Module",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
