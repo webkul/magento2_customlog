@@ -18,5 +18,7 @@
         "psr-4": {
             "Webkul\\Customlog\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : "true"
 }
