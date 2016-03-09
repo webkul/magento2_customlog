@@ -12,8 +12,10 @@ php bin/magento setup:upgrade
 
 Install the module via composer
 --------------------------
-Reun the following commands in terminal-
+Run the following commands in terminal-
+
 composer require webkul/module-customlog dev-master
+
 php bin/magento setup:upgrade
 
 now module is properly installed
